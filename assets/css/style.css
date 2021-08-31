@@ -1,0 +1,135 @@
+body {
+
+}
+#section1{
+	text-align:center;
+}
+#name {
+	font-style: 10px;
+}
+#sub-section1{
+	font-size: 30px;
+}
+.media img {
+	width: 150px;
+	height: 200px;
+	justify-content: center;
+}
+.media {
+	background-color:#e8eaf6;
+}
+#career{
+	text-align:center;
+	padding-top: 2px;
+}
+.card{
+	width: 18rem;
+}
+.modal-body hr {
+	height:2px;
+	background-color:black;
+}
+.great-title{
+	font-size: x-large
+}
+.education{
+	font-size: large;
+}
+.past-exp{
+	font-size: large;
+}
+#section3 {
+	background-image: linear-gradient(to bottom, #370515, #6a1b23, #9c3b29, #c86225, #eb9112);
+	text-align:center;
+	color: white;
+}
+
+li:first-child
+{
+	margin:0;
+}
+
+.content
+{
+	height: 50vh;
+	background-color: lightgray;
+}
+
+.modal-content ul
+{
+	list-style:none;
+	padding: 0;
+}
+
+#skills{
+	padding-top: 2px;
+}
+#html{
+	width:70%;
+}
+#css{
+	width:60%;
+}
+#javascript{
+	width:45%;
+}
+#jquery{
+	width:40%;
+}
+#bootstrap{
+	width:80%;
+}
+#wordpress{
+	width:50%;
+}
+#php{
+	width:30%;
+}
+#sql{
+	width:40%;
+}
+#ps{
+	width:30%;
+}
+#english{
+	width:40%;
+}
+#section4{
+
+}
+#contact{
+	/*color:white;*/
+	text-align:center;
+	padding-top: 2px;
+}
+label{
+	/*color:white;*/
+}
+form{
+
+}
+#message{
+	border-radius: 5px;
+	width:100%;
+}
+/*footer*/
+
+.footer-copyright{
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px)
+{
+	li
+	{
+		margin-left: 0;
+		margin-bottom: 1vh;
+	}
+}
+.circle{
+	border-radius: 150px;
+	overflow: hidden;
+	width: 150px;
+	height: 150px;
+	margin: auto;
+}
